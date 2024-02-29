@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sintaxes/java - projetoContaBanco/java - projetoContaBanco.iml" filepath="$PROJECT_DIR$/Sintaxes/java - projetoContaBanco/java - projetoContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sintaxes/java-primeiroTest/java-primeiroTest.iml" filepath="$PROJECT_DIR$/Sintaxes/java-primeiroTest/java-primeiroTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sintaxes/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/Sintaxes/java-terminal/java-terminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sintaxes/java-projetoSmartTv/projetoPratico/projetoPratico.iml" filepath="$PROJECT_DIR$/Sintaxes/java-projetoSmartTv/projetoPratico/projetoPratico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sintaxes.iml" filepath="$PROJECT_DIR$/.idea/sintaxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sintaxes/java-projetoSmartTv/sistema-smartv/sistema-smartv.iml" filepath="$PROJECT_DIR$/Sintaxes/java-projetoSmartTv/sistema-smartv/sistema-smartv.iml" />
+    </modules>
+  </component>
+</project>
