@@ -15,7 +15,7 @@ public class ContaTerminal {
         String cliente = " ";
         double saldo = 237.80;
         
-        try (Scanner sc = new Scanner(System.in)) {
+            try (Scanner sc = new Scanner(System.in)) {
             System.out.println("Digite o numero da sua Conta: ");
             conta = sc.nextInt() ;
             
