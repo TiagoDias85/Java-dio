@@ -1,0 +1,5 @@
+package copiadora1;
+
+public class Xerox extends Copiadora {
+
+}

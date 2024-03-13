@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\tiago\Desktop\Dev\Java-dio\Projeto-Iphone\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1107552822.index
+809747634.index

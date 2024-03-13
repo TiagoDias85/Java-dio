@@ -1,0 +1,12 @@
+package apps;
+
+public abstract class ServicoMensagemInstantanea {
+	public abstract void enviarMensagem();
+	public abstract void receberMensagem();
+	
+	protected void verificarConexao() {
+		System.out.println("verificando conexão com a Internet...");
+	} 
+	
+	
+}

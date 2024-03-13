@@ -1,0 +1,13 @@
+package polimorf;
+
+public class Carro {
+	public void ligarCarro() {
+		System.out.println("Ligando Carro!");
+	}
+	
+	private void verificarCombustivel() {
+		System.out.println("Verificando combustivel...");
+	}
+	
+
+}

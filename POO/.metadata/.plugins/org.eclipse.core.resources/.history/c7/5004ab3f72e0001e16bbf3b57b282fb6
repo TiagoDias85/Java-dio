@@ -1,0 +1,6 @@
+package messengerMsn;
+
+
+public class MSNMessenger extends ServicoMensagemInstantanea{
+
+}

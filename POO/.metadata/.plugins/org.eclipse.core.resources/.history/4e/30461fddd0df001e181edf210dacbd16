@@ -1,0 +1,39 @@
+package polimorf;
+
+public class Carro {
+	private String nomeVeiculo;
+	private String chassi;
+	
+	public String getNomeVeiculo() {
+		return nomeVeiculo;
+	}
+	
+	public void setNomeVeiculo(String nomeVeiculo) {
+		this.nomeVeiculo = nomeVeiculo;
+		System.out.println("O nome do Veículo é:" + nomeVeiculo);
+	}
+	
+	public String getChassi() {
+		return chassi;
+	}
+	
+	public void setChassi(String chassi) {
+		this.chassi = chassi;
+		System.out.println("O Chassi é: " + chassi);
+	}
+	
+	public void ligarCarro() {
+		verificarCombustivel();
+		verificarCambio();
+		System.out.println("Ligando Carro!");
+	}
+	
+	private void verificarCombustivel() {
+		System.out.println("Verificando combustivel...");
+	}
+	
+	private void verificarCambio() {
+		System.out.println("Verificando câmbio");
+	}
+
+}

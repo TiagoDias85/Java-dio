@@ -1,0 +1,8 @@
+import mensagemInstantanea.ServicoMensageInstantanea;
+
+package messengerMsn;
+
+
+public class MSNMessenger {
+	
+}

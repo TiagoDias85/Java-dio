@@ -1,0 +1,9 @@
+package polimorf;
+
+public class Carro {
+	public void ligarCarro() {
+		System.out.println("Ligando Carro!");
+	}
+	
+
+}

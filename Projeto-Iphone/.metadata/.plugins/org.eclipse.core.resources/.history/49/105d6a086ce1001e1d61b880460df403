@@ -1,0 +1,23 @@
+package usuário;
+
+import iphone.aparelhoTelefonico.AparelhoTelefonico;
+import iphone.aparelhoTelefonico.Discador;
+import iphone.navegadorInternet.NavegadorInternet;
+import iphone.navegadorInternet.Opera;
+import iphone.reprodutorMidia.Itunes;
+import iphone.reprodutorMidia.ReprodutorMidia;
+
+public class Usuário1 {
+	public static void main(String[] args) {
+		
+		AparelhoTelefonico discador = new Discador();
+		NavegadorInternet opera = new Opera();
+		//ReprodutorMidia itunes = new Itunes();
+		
+		opera.exibirPagina();
+		discador.atender();
+		
+	
+	}
+
+}

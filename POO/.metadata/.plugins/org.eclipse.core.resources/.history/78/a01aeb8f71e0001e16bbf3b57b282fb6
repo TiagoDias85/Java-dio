@@ -1,0 +1,6 @@
+package messengerMsn;
+import mensagemInstantanea.*;
+
+public class MSNMessenger {
+	
+}

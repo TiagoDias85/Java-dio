@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;estabelecimento.fabrica&apos; to &apos;estabelecimento&apos;&#x0D;&#x0A;- Original project: &apos;exemplo-Interface&apos;&#x0D;&#x0A;- Original element: &apos;exemplo-Interface/src/estabelecimento.fabrica&apos;&#x0D;&#x0A;- Renamed element: &apos;exemplo-Interface/src/estabelecimento&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;estabelecimento.fabrica&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;estabelecimento.fabrica" name="estabelecimento" qualified="false" references="true" stamp="1710279427150" textual="false" version="1.0"/>
+</session>

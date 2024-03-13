@@ -1,0 +1,60 @@
+package polimorf;
+
+public class Autodromo {
+	public static void main(String[] args) {
+		Carro Jeep = new Carro();
+		Jeep.setNomeVeiculo("Jeep");
+		Jeep.setChassi("159556655");
+		exibirChassi(Jeep);
+		exibirNome(Jeep);
+		Jeep.ligarCarro();
+		
+		System.out.println("");
+		
+		Carro Monza = new Carro();
+		Jeep.setNomeVeiculo("Monza");
+		Monza.setChassi("12563336");
+		exibirChassi(Monza);
+		exibirNome(Monza);
+		Monza.ligarCarro();
+		
+
+		System.out.println("");
+		
+		
+		Moto z400 = new Moto();
+		z400.setNomeVeiculo("Monza");
+		z400.setChassi("12563336");
+		exibirChassi(z400);
+		exibirNome(z400);
+		z400.ligarMoto();
+		
+		
+	}
+
+	public static void exibirChassi(Carro carro) {
+		String chassi = carro.getChassi();
+		System.out.println("O chassi é: " + chassi);
+		
+	}
+	
+	public static void exibirNome (Carro carro) {
+		String nomeVeiculo = carro.getNomeVeiculo();
+		System.out.println("Veículo Selecionado: " + nomeVeiculo);
+		
+	}
+	
+	public static void exibirChassi(Moto moto) {
+		String chassi = moto.getChassi();
+		System.out.println("O chassi é: " + chassi);
+		
+	}
+	
+	public static void exibirNome (Moto moto) {
+		String nomeVeiculo = moto.getNomeVeiculo();
+		System.out.println("Veículo Selecionado: " + nomeVeiculo);
+		
+	}
+		
+	
+}
