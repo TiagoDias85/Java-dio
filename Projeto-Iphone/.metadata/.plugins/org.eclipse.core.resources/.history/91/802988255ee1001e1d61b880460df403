@@ -1,9 +1,0 @@
-package iphone.aparelhoTelefonico;
-
-public class Discador implements AparelhoTelefonico  {
-	public void discar() {
-		System.out.println("Discando via discador default...");
-	}
-	
-
-}
