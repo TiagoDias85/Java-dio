@@ -1,7 +1,0 @@
-package iphone.aparelhoTelefonico;
-
-public interface AparelhoTelefonico {
-	public void discar();
-	void pub();
-	
-}

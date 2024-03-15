@@ -1,5 +1,0 @@
-package iphone.navegadorInternet;
-
-public interface NavegadorInternet {
-
-}
